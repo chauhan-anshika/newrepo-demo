@@ -1,4 +1,4 @@
 # newrepo-demo
 this is my new repo
 <br>
-Author - Anshika chauhan
+Author - Anshika (Apna college)
